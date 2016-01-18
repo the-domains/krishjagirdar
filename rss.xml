@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[krishjagirdar]]></title>
         <description><![CDATA[krishjagirdar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/krishjagirdar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 14:39:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 14:47:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krishjagirdar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello Wolrd]]></title>
-            <description><![CDATA[<article><h1>Hello Wolrd</h1><p>Hello World. My name is Krish and this is my first post on my new website. Looking forward to sharing thoughts and ideas with those who take the time to read this words.</p></article>]]></description>
-            <link>undefinedhello-wolrd/index.html</link>
+            <description><![CDATA[<article><h1>Hello Wolrd</h1><p>Hello World. My name is Krish and this is my first post on my new website. Looking forward to sharing thoughts and ideas with those who take the time to read these words.</p></article>]]></description>
+            <link>https://thegrid.ai/krishjagirdar/hello-wolrd/index.html</link>
             <guid isPermaLink="false">4b3fcda8-b916-4ea2-b3f2-a5c4f4880852</guid>
-            <pubDate>Mon, 18 Jan 2016 14:39:14 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 14:47:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
