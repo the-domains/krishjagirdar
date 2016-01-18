@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Inaugural Post '
-datePublished: '2016-01-18T14:39:14.914Z'
-dateModified: '2016-01-18T14:32:37.063Z'
+datePublished: '2016-01-18T14:47:28.126Z'
+dateModified: '2016-01-18T14:47:14.187Z'
 title: Hello Wolrd
 author: []
+sourcePath: _posts/2016-01-18-hello-wolrd.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-hello-wolrd.md
-published: true
 url: hello-wolrd/index.html
 _type: Article
 
 ---
-Hello World. My name is Krish and this is my first post on my new website. Looking forward to sharing thoughts and ideas with those who take the time to read this words.
+Hello World. My name is Krish and this is my first post on my new website. Looking forward to sharing thoughts and ideas with those who take the time to read these words.
 
 I appreciate it. 
 
