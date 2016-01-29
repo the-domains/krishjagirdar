@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[krishjagirdar]]></title>
-        <description><![CDATA[krishjagirdar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Thoughts from a Driven Mind.]]></title>
+        <description><![CDATA[Thoughts from a Driven Mind.]]></description>
+        <link>https://thegrid.ai/krishjagirdar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 20:17:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 20:24:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krishjagirdar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World. My name is Krish and this is my first post on my new website. Looking forward to sharing thoughts and ideas with those who take the time to read these words.</p>]]></description>
-            <link>undefined9e62976b-a5e1-47b6-9a69-6a20a7da12b8/index.html</link>
+            <link>https://thegrid.ai/krishjagirdar/9e62976b-a5e1-47b6-9a69-6a20a7da12b8/index.html</link>
             <guid isPermaLink="false">9e62976b-a5e1-47b6-9a69-6a20a7da12b8</guid>
-            <pubDate>Fri, 29 Jan 2016 20:16:58 GMT</pubDate>
+            <pubDate>Fri, 29 Jan 2016 20:24:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
